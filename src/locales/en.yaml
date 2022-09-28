@@ -1,0 +1,25 @@
+help: |
+  ✨ <b>Commands</b> ✨
+  ✦/start : Shows a list of timers and /help
+  ✦/help : You're here now!
+  ✦/1 - /999 : The number you input is taken as <i>minutes</i>. You can also give the timer a name. eg: /15 cookies
+  ✦/clear : Removes all running timers.
+  ✦/status : The command by itself returns all running timers current time. You can also input a specific name to return that timer. eg: /status cookies
+  ✦/bongo : Some bongo fun.
+
+  ‼ <b>WARNING</b> ‼
+  • Only a <b>3</b> digit number is accepted. eg: /1400 will not work.
+  • Calculate your minutes correctly.
+  • Examples: 
+  -60: 1 hour
+  -90: 1 hour 30 mins
+  -120: 2 hours
+  -150: 2 hours 30 mins
+  -180: 3 hours
+
+
+start: |
+  😸<b>Meow~</b> Click to start!
+  ⏱/1 /5 /10 /30 /60
+
+  ❓Need help? /help
