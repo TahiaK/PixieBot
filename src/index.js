@@ -4,7 +4,7 @@ const TelegrafI18n = require('telegraf-i18n')
 const path = require("path");
 const session = require('telegraf/session') // valid only for Telegraf version 3.25.5
 
-const bot = new Telegraf('5432534985:AAFfblI7iKFgBYyz59drwtbwFYtc_PNUATY')
+const bot = new Telegraf('5648514001:AAEA5XomhdBoY4ZGmYSZ3ny-RaVbSoalJvA')
 bot.use(session())
 
 // usage of files in locales
